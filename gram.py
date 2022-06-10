@@ -10,5 +10,5 @@ def find_anagram(word, anagram):
     else:
         return True
         
-print(find_anagram('kk', 'jh'))
+print(find_anagram('elbow', 'hello'))
 
